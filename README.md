@@ -1,9 +1,12 @@
 ### Hi there    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://github.com/mihaidragos3010)
+About moi
+--
+**
+I am a 3rd year student of the Faculty of Automatic Control and Computer Science, at Bucharest Polytechnic University. My main qualities would be curiosity, hardworking and the continuous search to evolve. This is my portfolio of student projects that I invite you to take a look!**
 
 ### Languages
-
+--
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
