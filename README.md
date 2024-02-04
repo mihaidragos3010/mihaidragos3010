@@ -22,7 +22,7 @@ Personal projects
  - Classic algorithmic problems: https://github.com/mihaidragos3010/Algorithm-design
 
 C/C++ Projects
- - Implementation of File System through binary search trees: https://github.com/mihaidragos3010/Data-structures-and-algorithms/tree/main/tema3
+ - Implementation of File System: https://github.com/mihaidragos3010/Data-structures-and-algorithms/tree/main/tema3
  - Dataplane-Router-Implementation: https://github.com/mihaidragos3010/Communication-protocols/tree/main/Homework1
  - TCP and UDP client-server application using sockets: https://github.com/mihaidragos3010/Communication-protocols/tree/main/Homework2
  - Web client implementation via REST API using the HTTP Protocol: https://github.com/mihaidragos3010/Communication-protocols/tree/main/Homework4
