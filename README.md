@@ -1,10 +1,11 @@
-### Hi there    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+### Hi there     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+
 
 About moi
 --
-**
-I am a 3rd year student of the Faculty of Automatic Control and Computer Science, at Bucharest Polytechnic University. My main qualities would be curiosity, hardworking and the continuous search to evolve. This is my portfolio of student projects that I invite you to take a look!
-**
+**I am a 3rd year student of the Faculty of Automatic Control and Computer Science, at Bucharest Polytechnic University. 
+My main qualities would be curiosity, hardworking and the continuous search to evolve. 
+This is my portfolio of student projects that I invite you to take a look!**
 
 Languages
 --
