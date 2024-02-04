@@ -1,6 +1,8 @@
 ### Hi there          <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 
+
+
 About me
 --
 **I am a 3rd year student of the Faculty of Automatic Control and Computer Science, at Bucharest Polytechnic University. 
