@@ -24,7 +24,7 @@ Personal projects
 C/C++ Projects
  - Dataplane-Router-Implementation: https://github.com/mihaidragos3010/Communication-protocols/tree/main/Homework1
  - TCP and UDP client-server application using sockets: https://github.com/mihaidragos3010/Communication-protocols/tree/main/Homework2
- - Implementation of a web client communicating with a REST API using the HTTP Protocol: https://github.com/mihaidragos3010/Communication-protocols/tree/main/Homework4
+ - Web client implementation via REST API using the HTTP Protocol: https://github.com/mihaidragos3010/Communication-protocols/tree/main/Homework4
    
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="20" height="20"/> Python Projects
  - Functional-Language-Interpreter: https://github.com/mihaidragos3010/Functional-Language-Interpreter
