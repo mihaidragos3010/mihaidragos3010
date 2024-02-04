@@ -19,10 +19,14 @@ Personal projects
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>  Java Language Projects 
  - First java project
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdevelopers.redhat.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Farticle_feature%2Fpublic%2Fblog%2F2020%2F06%2FC_C_featuredimage.png%3Fitok%3Do1mJTa7J&tbnid=RppNBNTD74Yx2M&vet=12ahUKEwi7nOyxw5KEAxWq7LsIHWM7DfgQMygfegUIARCUAQ..i&imgrefurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2020%2F06%2F02%2Fthe-joys-and-perils-of-c-and-c-aliasing-part-1&docid=H_-RAhb0zSFUKM&w=960&h=539&q=c%2B%2B%20images&ved=2ahUKEwi7nOyxw5KEAxWq7LsIHWM7DfgQMygfegUIARCUAQ" alt="C/C++" width="30" height="30"/>
-
+![C](https://img.shields.io/badge/-C-000?&logo=C) / ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+ - First C project
+   
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> Python Landguage Projects
  - First python project
+
+
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaidragos3010&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/mihaidragos3010) -->
 <!--
 <p align="center">
