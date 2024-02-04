@@ -1,7 +1,7 @@
 ### Hi there          <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 
-About moi
+About me
 --
 **I am a 3rd year student of the Faculty of Automatic Control and Computer Science, at Bucharest Polytechnic University. 
 My main qualities would be curiosity, hardworking and the continuous search to evolve. 
@@ -24,6 +24,7 @@ C/C++ Projects
  - First C project
    
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="20" height="20"/> Python Projects
+ - Functional-Language-Interpreter: https://github.com/mihaidragos3010/Functional-Language-Interpreter
  - Classification on Unlabeled and Mislabeled Images: https://github.com/mihaidragos3010/Zero-to-Hero-Deep-Learning-for-Computer-Vision
 
 
