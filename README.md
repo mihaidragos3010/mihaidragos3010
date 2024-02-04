@@ -16,13 +16,13 @@ Languages
 
 Personal projects
 --
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>  Java Language Projects 
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>  Java Projects 
  - First java project
 
-![C](https://img.shields.io/badge/-C-000?&logo=C) / ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+C/C++ Projects
  - First C project
    
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> Python Landguage Projects
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> Python Projects
  - First python project
 
 
