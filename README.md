@@ -18,7 +18,7 @@ Languages
 Personal projects
 --
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>  Java Projects 
- - First java project
+ - Classic algorithmic problems: https://github.com/mihaidragos3010/Algorithm-design
 
 C/C++ Projects
  - First C project
