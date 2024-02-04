@@ -24,7 +24,7 @@ Personal projects
 C/C++ Projects
  - Dataplane Router Implementation: https://github.com/mihaidragos3010/Dataplane-Router-Implementation
  - TCP and UDP client-server application using sockets: https://github.com/mihaidragos3010/TCP-and-UDP-Client-Server-Application
- - Web client implementation via REST API using the HTTP Protocol: 
+ - Web client implementation via REST API using the HTTP Protocol: https://github.com/mihaidragos3010/REST-Web-Client
  - Implementation of File System: https://github.com/mihaidragos3010/Implementation-of-File-System
    
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="20" height="20"/> Python Projects
