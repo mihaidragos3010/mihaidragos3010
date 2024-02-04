@@ -3,9 +3,10 @@
 About moi
 --
 **
-I am a 3rd year student of the Faculty of Automatic Control and Computer Science, at Bucharest Polytechnic University. My main qualities would be curiosity, hardworking and the continuous search to evolve. This is my portfolio of student projects that I invite you to take a look!**
+I am a 3rd year student of the Faculty of Automatic Control and Computer Science, at Bucharest Polytechnic University. My main qualities would be curiosity, hardworking and the continuous search to evolve. This is my portfolio of student projects that I invite you to take a look!
+**
 
-### Languages
+Languages
 --
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
