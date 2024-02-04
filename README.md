@@ -23,7 +23,7 @@ C/C++ Projects
  - First C project
    
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> Python Projects
- - First python project
+ - Classification on Unlabeled and Mislabeled Images: 
 
 
 
