@@ -14,6 +14,9 @@ Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
+Personal projects
+--
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>  Java Language Projects 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaidragos3010&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/mihaidragos3010) -->
 <!--
 <p align="center">
