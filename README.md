@@ -23,7 +23,7 @@ C/C++ Projects
  - First C project
    
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> Python Projects
- - Classification on Unlabeled and Mislabeled Images: 
+ - Classification on Unlabeled and Mislabeled Images: https://github.com/mihaidragos3010/Zero-to-Hero-Deep-Learning-for-Computer-Vision
 
 
 
