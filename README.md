@@ -19,7 +19,7 @@ Personal projects
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>  Java Projects 
  - Smart system of stream recommendations: https://github.com/mihaidragos3010/Smart-system-of-stream-recommendations
  - Management System of a City Hall: https://github.com/mihaidragos3010/Management-System-of-a-City-Hall
- - Task-planning-in-a-Datacenter: https://github.com/mihaidragos3010/Task-planning-in-a-Datacenter
+ - Task planning in a Datacenter: https://github.com/mihaidragos3010/Task-planning-in-a-Datacenter
  - Classic algorithmic problems: https://github.com/mihaidragos3010/Algorithm-design
 
 C/C++ Projects
