@@ -23,15 +23,15 @@ Personal projects
  - Classic algorithmic problems: https://github.com/mihaidragos3010/Algorithm-design
 
 C/C++ Projects
- - Game-after-Plants-vs-Zombies: https://github.com/mihaidragos3010/Game-after-Plants-vs-Zombies
- - Parallel-Marching-Squares-algorithm: https://github.com/mihaidragos3010/Parallel-Marching-Squares-algorithm
+ - Game after Plants vs Zombies: https://github.com/mihaidragos3010/Game-after-Plants-vs-Zombies
+ - Parallel Marching Squares algorithm: https://github.com/mihaidragos3010/Parallel-Marching-Squares-algorithm
  - Dataplane Router Implementation: https://github.com/mihaidragos3010/Dataplane-Router-Implementation
  - Web client implementation via REST API using the HTTP Protocol: https://github.com/mihaidragos3010/REST-Web-Client
  - TCP and UDP client-server application using sockets: https://github.com/mihaidragos3010/TCP-and-UDP-Client-Server-Application
  - Implementation of File System: https://github.com/mihaidragos3010/Implementation-of-File-System
    
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="20" height="20"/> Python Projects
- - Functional-Language-Interpreter: https://github.com/mihaidragos3010/Functional-Language-Interpreter
+ - Functional Language Interpreter: https://github.com/mihaidragos3010/Functional-Language-Interpreter
  - Classification on Unlabeled and Mislabeled Images: https://github.com/mihaidragos3010/Zero-to-Hero-Deep-Learning-for-Computer-Vision
 
 
