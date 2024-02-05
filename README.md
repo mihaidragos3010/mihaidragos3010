@@ -30,7 +30,7 @@ C/C++ Projects
  - TCP and UDP client-server application using sockets: https://github.com/mihaidragos3010/TCP-and-UDP-Client-Server-Application
  - Implementation of File System: https://github.com/mihaidragos3010/Implementation-of-File-System
    
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="20" height="20"/> Python Projects
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="25" height="25"/> Python Projects
  - Functional Language Interpreter: https://github.com/mihaidragos3010/Functional-Language-Interpreter
  - Classification on Unlabeled and Mislabeled Images: https://github.com/mihaidragos3010/Zero-to-Hero-Deep-Learning-for-Computer-Vision
 
