@@ -14,11 +14,6 @@ Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-Framework
---
-Spring Boot
-React
-
 Personal projects
 --
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>  Java Projects 
